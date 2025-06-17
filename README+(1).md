@@ -10,15 +10,13 @@ In this assignment I have build a multiple linear regression model for the predi
 
 
 # Technologies used 
-numpy - version 2.2.6
-pandas - version 2.3.0
-matplotlib - version 3.10.3
-seaborn - version 0.13.2
-statsmodels - version 0.14.4
-sklearn - version 1.7.0
-scipy - version 1.15.3
-
-
+1. numpy - version 2.2.6
+2. pandas - version 2.3.0
+3. matplotlib - version 3.10.3
+4. seaborn - version 0.13.2
+5. statsmodels - version 0.14.4
+6. sklearn - version 1.7.0
+7. scipy - version 1.15.3
 
 
 ## Conclusion
